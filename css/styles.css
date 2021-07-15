@@ -19,6 +19,7 @@
 body {
   font-family: var(--font-main-stack);
   line-height: 1.5;
+  background-color: lightslategray;
 }
 
 .button {
@@ -42,7 +43,8 @@ body {
 }
 
 .app {
-  background: linear-gradient(to bottom, #7d182f, #100206);
+  /* background: linear-gradient(to bottom, #7d182f, #100206); */
+  /* background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%); */
   height: 100%;
 }
 
